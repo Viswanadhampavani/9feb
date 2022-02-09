@@ -1,0 +1,8 @@
+num=int(input ('enter a number')) 
+if(num%2==0):
+Print("{0}is even" Format (num)) 
+else
+Print("{0} is odd" Format (num)) 
+OUTPUT
+Enter a number :20
+20 is even
